@@ -46,6 +46,16 @@ main{
   padding: 0 5%;
 }
 
+.samplePackSection{
+  display: flex;
+  flex-direction: column;
+}
+
+.samplePackSection a{
+    
+
+}
+
 footer {
 
 }
