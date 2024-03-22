@@ -21,9 +21,9 @@ clear: both;
 /* BASE STYLES
 /*******************************************/
 
-body {
+/* body {
 
-}
+} */
 
 
 /******************************************
@@ -34,9 +34,10 @@ nav, header > h2 {
   justify-content: center;
 }
 
-ul{
+ul, li{
   display: flex;
   list-style: none;
+  flex-basis: 50%;
 }
 
 main{
@@ -51,13 +52,12 @@ main{
   flex-direction: column;
 }
 
-.samplePackSection a{
-    
-
-}
+.samplePackSection, .signatureFlavourSection, main{
+  height: 500px;
+} 
 
 footer {
-
+  border-top: 2px solid black;
 }
 
 /******************************************
