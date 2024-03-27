@@ -52,7 +52,7 @@ main{
   flex-direction: column;
 }
 
-.samplePackSection, .signatureFlavourSection, main{
+.samplePackSection, .signatureFlavourSection, main, .aboutUs{
   height: 500px;
 } 
 
