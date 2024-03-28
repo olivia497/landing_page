@@ -44,7 +44,12 @@ main{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  padding: 0 5%;
+  padding: 5% 5%;
+
+  background-image: url("#");
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+
 }
 
 .samplePackSection{
