@@ -38,7 +38,7 @@ nav, header > h2 {
 ul, li{
   display: flex;
   list-style: none;
-  /* flex-basis: 50%; */
+  flex-basis: 50%;
 }
 
 .backgroundImgSec{
@@ -63,7 +63,7 @@ main{
 }
 
 .signatureFlavourSection{
-  background-color: rgb(94, 37, 36);
+  /* background-color: rgb(94, 37, 36); */
 
 }
 
