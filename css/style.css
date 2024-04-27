@@ -41,6 +41,11 @@ ul, li{
   flex-basis: 50%;
 }
 
+a{
+  text-decoration: none;
+  /* Still need to override the colour of anchor tags in each state */
+}
+
 .backgroundImgSec{
   background-image: url("../images/nathan-dumlao-4hjgcuADlL8-unsplash.jpg");
   background-repeat: no-repeat;
