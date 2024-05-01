@@ -62,13 +62,23 @@ main{
   color: rgb(226, 226, 226);
 }
 
-.samplePackSection{
+.samplePackSection, .signatureFlavourSection, .ourStory{
+  height: 500px;
+}
+
+.samplePackSection, .signatureFlavourSection{
   display: flex;
   flex-direction: column;
 }
 
-.samplePackSection, .signatureFlavourSection, .ourStory{
-  height: 500px;
+.signatureFlavourSection > ul{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.coffeeBagIcon{
+  max-height: 150px;
 }
 
 footer {
