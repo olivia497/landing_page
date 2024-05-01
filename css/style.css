@@ -21,10 +21,21 @@ clear: both;
 /* BASE STYLES
 /*******************************************/
 
-/* body {
+*{
+  font-family: 'Open Sans', sans-serif;
+}
 
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 300 to 800 */
+
+/* .open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 } */
-
 
 /******************************************
 /* LAYOUT
@@ -71,14 +82,14 @@ main{
   flex-direction: column;
 }
 
-.signatureFlavourSection > ul{
-  display: flex;
-  justify-content: space-evenly;
-
+.signatureFlavourSection > ul > li{
+  flex-direction: column;
+  align-items: center;
 }
 
 .coffeeBagIcon{
   max-height: 150px;
+  max-width: 10rem;
 }
 
 footer {
