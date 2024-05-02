@@ -77,6 +77,10 @@ main{
   height: 500px;
 }
 
+.signatureFlavourSection > h2{
+  text-align: center;
+  padding: 5%;
+}
 
 .signatureFlavourSection > ul > li{
   flex-direction: column;
