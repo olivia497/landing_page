@@ -57,8 +57,8 @@ a{
   /* Still need to override the colour of anchor tags in each state */
 }
 
-.backgroundImgSec{
-  background-image: url("../images/nathan-dumlao-4hjgcuADlL8-unsplash.jpg");
+.background-img-sec{
+  background-image: url("../images/ruben-ramirez-xhKG01FN2uk-unsplash.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgb(211, 211, 211);
@@ -73,48 +73,88 @@ main{
   color: rgb(226, 226, 226);
 }
 
-.samplePackSection, .coffeeClub{
-  height: 500px;
-}
-
-.signatureFlavourSection > h2{
+/* CULTURE BLURB */
+.culture-blurb{
+  padding: 3em;
   text-align: center;
-  padding: 5%;
 }
 
-.signatureFlavourSection > ul > li{
+/* SIGNATURE FLAVOURS SECTION */
+.signature-flavour-section{
+  padding-bottom: 2em;
+}
+.signature-flavour-section > h2{
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.signature-flavour-section > ul > li{
   flex-direction: column;
   align-items: center;
 }
 
-.coffeeBagIcon{
+.coffee-bag-icon{
   max-height: 150px;
   max-width: 10rem;
 }
 
-
-#subscribeCoffeeClub{
+/* PLANT OPTIONS */
+#plantOptions{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
-#subscribeCoffeeClubLeft, #subscribeCoffeeClubRight{
-  width: 50%;
-  padding: 50px;
+.arrangements, .cut-stems-and-florals, .supplies{
+  width: 33.33%;
+  position: relative;
+  text-align: center;
 }
 
-#stayInTheLoop{
+.arrangements-image, .cut-stems-and-florals-image, .supplies-image{
+  width: 100%;
+  padding: 1em; /* Each image has space between of 2em making the gaps larger */
+}
+
+.arrangements-text, .cut-stems-and-florals-text, .supplies-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: 500;
+  font-size: 2em;
+}
+/* OUR STORY */
+.our-story{
+  /* display: flex; */
+  background-color: rgb(128, 133, 113);
+  color: white;
+  text-align: center;
+  padding: 3em;
+}
+
+/* JOIN OUR COMMUNITY */
+#joinOurCommunity{
   display: flex;
-  justify-content: space-evenly;
-  border: 2px solid black;
-  padding: 5em;
+  justify-content: space-around;
+  padding: 5%;
+}
+
+#joinOurCommunity > img{
+  border: 1px solid black;
+  height: 300px;
+  width: 450px;
+}
+
+.join-our-community-instagram-link-and-blurb{
+  padding: 1em;
 }
 
 
-
+/* FOOTER */
 footer {
   border-top: 1px solid black;
-  background-color: rgb(114, 189, 198);
+  background-color: rgb(128, 133, 113);
   height: 150px;
   display: flex;
   justify-content: space-evenly;
