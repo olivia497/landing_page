@@ -34,5 +34,11 @@ first blog post (https://unsplash.com/photos/shallow-focus-photography-of-coffee
 Photo by <a href="https://unsplash.com/@nate_dumlao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nathan Dumlao</a> on <a href="https://unsplash.com/photos/shallow-focus-photography-of-coffee-late-in-mug-on-table-zUNs99PGDg0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   
+second blog post (https://unsplash.com/photos/pink-and-white-flowers-in-green-glass-vase-xaJ-fvPZEsM)
+Photo by <a href="https://unsplash.com/@girlwithredhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Girl with red hat</a> on <a href="https://unsplash.com/photos/pink-and-white-flowers-in-green-glass-vase-xaJ-fvPZEsM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
-second blog post ()
+third blog post (https://unsplash.com/photos/black-ceramic-mug-on-brown-wooden-table-qXLReVbjxvg)
+Photo by <a href="https://unsplash.com/@andreasbehr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreas Behr</a> on <a href="https://unsplash.com/photos/black-ceramic-mug-on-brown-wooden-table-qXLReVbjxvg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
