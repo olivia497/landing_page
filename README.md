@@ -27,3 +27,12 @@ join our community, thumbs up with plants image (https://unsplash.com/photos/per
 
 coffee bag icons (<a href="https://www.freepik.com/icon/coffee_7143215#fromView=search&page=1&position=83&uuid=4c1c3452-e1a9-461a-aaff-ea782f172dc1">Icon by kornkun</a>)
 https://www.freepik.com/icon/coffee_7143215#fromView=search&page=1&position=83&uuid=4c1c3452-e1a9-461a-aaff-ea782f172dc1
+
+
+BLOG POSTS
+first blog post (https://unsplash.com/photos/shallow-focus-photography-of-coffee-late-in-mug-on-table-zUNs99PGDg0)
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nathan Dumlao</a> on <a href="https://unsplash.com/photos/shallow-focus-photography-of-coffee-late-in-mug-on-table-zUNs99PGDg0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
+
+second blog post ()
