@@ -182,21 +182,16 @@ main{
 }
 
 /* BLOG SECTION */
-/* #blog > h3{
-  width: 100%;
+#blog > h3{
   text-align: center;
   text-decoration: underline;
-} */
-
-.blog-post-previews{
-  display: flex;
 }
 
-.blog-post-image{
+/* .blog-post-image{
   height: 450px;
   padding: 1em;
   border: 1px solid black;
-}
+} */
 
 /* FOOTER */
 footer {
@@ -211,6 +206,3 @@ footer {
   height: 8em;
   padding-top: 2%;
 }
-/******************************************
-/* ADDITIONAL STYLES
-/*******************************************/
