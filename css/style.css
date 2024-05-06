@@ -181,7 +181,19 @@ main{
   background-color: rgb(122, 161, 133);
 }
 
+/* BLOG SECTION */
+#blog > h3{
+  text-align: center;
+  text-decoration: underline;
+}
 
+.blog-post-previews{
+  display: flex;
+}
+
+.blog-post-image{
+  height: 450px;
+}
 
 /* FOOTER */
 footer {
