@@ -204,6 +204,34 @@ main{
   /* border: 1px solid black; */
 }
 
+#blog-post-title{
+  font-size: 1.5em;
+  font-weight: 100;
+  margin: 0;
+  padding: 1em;
+}
+
+#blog-post-date{
+  font-size: 0.8em;
+  color: rgb(109, 109, 109);
+  padding: 1em;
+  padding-top: 0;
+}
+
+#blog-post-text{
+  padding: 1em;
+  padding-bottom: 0em;
+  font-size: 1em;
+}
+
+#read-more{
+  width: 30%;
+  margin: 1em;
+  /* border: none;
+  background-color: white;
+  cursor: pointer; */
+}
+
 /* FOOTER */
 footer {
   border-top: 1px solid black;
