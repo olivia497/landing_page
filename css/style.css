@@ -113,8 +113,12 @@ main{
 }
 
 .arrangements-image, .cut-stems-and-florals-image, .supplies-image{
-  width: 100%;
+  width: 90%;
   padding: 1em; /* Each image has space between of 2em making the gaps larger */
+}
+
+.arrangements-image:hover, .cut-stems-and-florals-image:hover, .supplies-image:hover{
+  transform: scale(1.04);
 }
 
 .arrangements-text, .cut-stems-and-florals-text, .supplies-text{
@@ -226,6 +230,33 @@ main{
 
 #read-more-button{
   width: 30%;
+  margin: 1em;
+}
+
+/* VISIT US */
+/* #addressAndHours{
+  display: flex;
+} */
+
+#contactInformationAndLocation{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#addressAndHours{
+  margin: 1em;
+}
+
+#hoursOfOperation{
+  display: flex;
+  flex-direction: column;
+}
+
+#pendingMap{
+  width: 700px;
+  height: 400px;
+  border: 1px solid black;
   margin: 1em;
 }
 
