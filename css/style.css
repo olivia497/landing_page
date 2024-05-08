@@ -104,6 +104,23 @@ main{
   max-width: 10rem;
 }
 
+.purchase-coffee-bag{
+  width: 100px;
+  height: 20px;
+  border: none;
+  border-radius: 500px;
+  color: white;
+  background-color: rgb(62, 82, 68);
+  font-weight: 400;
+  /* text-transform: uppercase; */
+  cursor: pointer;
+}
+
+.purchase-coffee-bag:hover{
+  transform: scale(1.04);
+  background-color: rgb(122, 161, 133);
+}
+
 /* PLANT OPTIONS */
 #plantOptions{
   display: flex;
@@ -238,19 +255,28 @@ main{
 }
 
 /* VISIT US */
-/* #addressAndHours{
-  display: flex;
-} */
+#visitUs{
+  text-decoration: underline;
+}
+
+#hoursOfOperation > li{
+  padding: 0.2em
+}
+
+#hoursOfOperationTitle{
+  font-weight: bold;
+}
 
 #contactInformationAndLocation{
   display: flex;
-  justify-content: space-between;
-
+  justify-content: space-around;
+  /* align-items: center;
+  text-align: center; */
 }
 
-#addressAndHours{
+/* #addressAndHours{
   margin: 1em;
-}
+} */
 
 #hoursOfOperation{
   display: flex;
