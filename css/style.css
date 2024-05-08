@@ -80,10 +80,25 @@ main{
 }
 
 /* CULTURE BLURB */
-.culture-blurb{
+#culture{
   padding: 3em;
   text-align: center;
+  background-color: rgb(128, 133, 113);
+  color: white;
 }
+
+#cultureTitle{
+  font-size: 1.8em;
+}
+
+#cultureSpan{
+  font-size: 1.5em;
+}
+
+/* .our-story-span + h5{
+  font-size: 1.5em;
+  text-decoration: underline;
+} */
 
 /* SIGNATURE FLAVOURS SECTION */
 .signature-flavour-section{
