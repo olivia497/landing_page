@@ -64,7 +64,13 @@ a:visited{
 }
 
 /* NAVBAR */
+#dropdown-products {
+  display: none;
+}
 
+#menu-products:hover #dropdown-products {
+  display: block;
+}
 
 /* MAIN SECTION */
 .main-background-img-sec{
@@ -85,10 +91,6 @@ main{
   text-align: center;
   background-color: rgb(128, 133, 113);
   color: white;
-}
-
-#cultureTitle{
-  font-size: 1.8em;
 }
 
 #cultureSpan{
