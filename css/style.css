@@ -207,8 +207,8 @@ main{
 #blog-post-title{
   font-size: 1.5em;
   font-weight: 100;
-  margin: 0;
-  padding: 1em;
+  /* padding: 1em; */
+  text-align: center;
 }
 
 #blog-post-date{
@@ -224,12 +224,9 @@ main{
   font-size: 1em;
 }
 
-#read-more{
+#read-more-button{
   width: 30%;
   margin: 1em;
-  /* border: none;
-  background-color: white;
-  cursor: pointer; */
 }
 
 /* FOOTER */
