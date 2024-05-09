@@ -30,15 +30,17 @@ https://www.freepik.com/icon/coffee_7143215#fromView=search&page=1&position=83&u
 
 
 BLOG POSTS
-first blog post (https://unsplash.com/photos/shallow-focus-photography-of-coffee-late-in-mug-on-table-zUNs99PGDg0)
-Photo by <a href="https://unsplash.com/@nate_dumlao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nathan Dumlao</a> on <a href="https://unsplash.com/photos/shallow-focus-photography-of-coffee-late-in-mug-on-table-zUNs99PGDg0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+first blog post with espresso pull (https://unsplash.com/photos/a-cup-of-coffee-being-filled-with-liquid-AYHneWFeZeI)
+Photo by <a href="https://unsplash.com/@impettyimportant?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nick Petty</a> on <a href="https://unsplash.com/photos/a-cup-of-coffee-being-filled-with-liquid-AYHneWFeZeI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   
-second blog post (https://unsplash.com/photos/pink-and-white-flowers-in-green-glass-vase-xaJ-fvPZEsM)
-Photo by <a href="https://unsplash.com/@girlwithredhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Girl with red hat</a> on <a href="https://unsplash.com/photos/pink-and-white-flowers-in-green-glass-vase-xaJ-fvPZEsM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
+second blog post of house plants (https://unsplash.com/photos/green-indoor-plant-near-black-framed-mirror-5MrddkW_Cbg)
+Photo by <a href="https://unsplash.com/@alpduran?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alp Duran</a> on <a href="https://unsplash.com/photos/green-indoor-plant-near-black-framed-mirror-5MrddkW_Cbg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+   
 
-third blog post (https://unsplash.com/photos/black-ceramic-mug-on-brown-wooden-table-qXLReVbjxvg)
-Photo by <a href="https://unsplash.com/@andreasbehr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andreas Behr</a> on <a href="https://unsplash.com/photos/black-ceramic-mug-on-brown-wooden-table-qXLReVbjxvg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+third blog post of latte art (https://unsplash.com/photos/aerial-photography-of-cafe-latte-on-table-ikU3J1nr52w)
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nathan Dumlao</a> on <a href="https://unsplash.com/photos/aerial-photography-of-cafe-latte-on-table-ikU3J1nr52w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
   
