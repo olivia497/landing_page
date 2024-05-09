@@ -40,11 +40,15 @@ clear: both;
 /******************************************
 /* LAYOUT
 /*******************************************/
-h1, nav, header > h2 {
+nav {
   display: flex;
   justify-content: center;
   margin: 0px auto;
   color: white;
+}
+
+nav{
+  background-color: black;
 }
 
 ul, li{
@@ -64,6 +68,17 @@ a:visited{
 }
 
 /* NAVBAR */
+nav {
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+  color: white;
+}
+
+nav{
+  background-color: black;
+}
+
 .dropdown {
   position: relative;
   text-decoration: underline solid transparent;
