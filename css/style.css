@@ -301,15 +301,10 @@ ul, li{
 #contactInformationAndLocation{
   display: flex;
   justify-content: space-around;
-  /* align-items: center;
-  text-align: center; */
   color: white;
   background-color: rgb(128, 133, 113);
+  padding: 2em;
 }
-
-/* #addressAndHours{
-  margin: 1em;
-} */
 
 #hoursOfOperation{
   display: flex;
@@ -321,8 +316,8 @@ ul, li{
 
 
 #pendingMap{
-  width: 600px;
-  height: 300px;
+  width: 500px;
+  height: 250px;
   border: 1px solid black;
   margin: 1em;
 }
