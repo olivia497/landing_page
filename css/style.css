@@ -82,6 +82,7 @@ nav > ul > li{
 nav > ul + h1{
   margin: 0;
   padding: 0;
+  padding-top: 0.7em;
   width: 50%;
   text-align: center;
 }
@@ -230,10 +231,12 @@ ul, li{
 /* OUR STORY */
 #our-story{
   /* display: flex; */
-  background-color: rgb(128, 133, 113);
+  /* background-color: rgb(128, 133, 113); */
+  background-color: rgb(165, 107, 55);
   color: white;
   text-align: center;
   padding: 5em;
+  padding-bottom: 2em;
 }
 
 .our-story-span{
@@ -280,6 +283,50 @@ ul, li{
   transform: scale(1.04);
   background-color: rgb(122, 161, 133);
 }
+
+/* VISIT US */
+#visitUs{
+  text-decoration: underline;
+}
+
+#hoursOfOperation > li{
+  padding: 0.2em
+}
+
+#hoursOfOperationTitle{
+  font-weight: bold;
+  font-style: italic;
+}
+
+#contactInformationAndLocation{
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center;
+  text-align: center; */
+  color: white;
+  background-color: rgb(128, 133, 113);
+}
+
+/* #addressAndHours{
+  margin: 1em;
+} */
+
+#hoursOfOperation{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  padding-top: 1em;
+}
+
+
+#pendingMap{
+  width: 600px;
+  height: 300px;
+  border: 1px solid black;
+  margin: 1em;
+}
+
 
 /* BLOG SECTION */
 #blog > h3{
@@ -341,42 +388,6 @@ ul, li{
 
 .blog-post-preview:hover .blog-post-image, .blog-post-preview:hover #read-more-button{
   transform: scale(1.04);
-}
-
-/* VISIT US */
-#visitUs{
-  text-decoration: underline;
-}
-
-#hoursOfOperation > li{
-  padding: 0.2em
-}
-
-#hoursOfOperationTitle{
-  font-weight: bold;
-}
-
-#contactInformationAndLocation{
-  display: flex;
-  justify-content: space-around;
-  /* align-items: center;
-  text-align: center; */
-}
-
-/* #addressAndHours{
-  margin: 1em;
-} */
-
-#hoursOfOperation{
-  display: flex;
-  flex-direction: column;
-}
-
-#pendingMap{
-  width: 700px;
-  height: 400px;
-  border: 1px solid black;
-  margin: 1em;
 }
 
 /* FOOTER */
