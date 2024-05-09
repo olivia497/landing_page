@@ -390,6 +390,10 @@ ul, li{
   transform: scale(1.04);
 }
 
+#read-more-button:hover{
+  background-color: rgb(122, 161, 133);
+}
+
 /* FOOTER */
 footer {
   border-top: 1px solid black;
