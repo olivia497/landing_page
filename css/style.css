@@ -64,11 +64,28 @@ a:visited{
 }
 
 /* NAVBAR */
-#dropdown-products {
-  display: none;
+.dropdown {
+  position: relative;
 }
 
-#menu-products:hover #dropdown-products {
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%; /* Position the dropdown menu beneath the dropdown button */
+  left: 0;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a{
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
@@ -109,6 +126,12 @@ main{
 .signature-flavour-section > h2{
   text-align: center;
   padding-bottom: 5%;
+}
+
+.coffee-flavour{
+  font-size: 1em;
+  margin-bottom: 1em;
+  text-align: center;
 }
 
 .signature-flavour-section > ul > li{
