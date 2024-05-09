@@ -40,26 +40,20 @@ clear: both;
 /******************************************
 /* LAYOUT
 /*******************************************/
-nav {
+/* nav {
   display: flex;
   justify-content: center;
   margin: 0px auto;
   color: white;
-}
+} */
 
-nav{
+/* nav{
   background-color: black;
-}
+} */
 
-ul, li{
-  display: flex;
-  list-style: none;
-  flex-basis: 50%;
-}
-
-a{
+/* a{
   text-decoration: none;
-}
+} */
 
 /* Apply white to all anchor tags even if they've already been clicked */
 a:visited{
@@ -70,13 +64,26 @@ a:visited{
 /* NAVBAR */
 nav {
   display: flex;
-  justify-content: center;
-  margin: 0px auto;
+  justify-content: space-around;
+  padding: 2% auto;
   color: white;
+  background-color: rgb(38, 44, 32, .8);
 }
 
-nav{
-  background-color: black;
+nav > ul{
+  margin: 0px;
+  padding: 0px;
+}
+
+nav > ul > li{
+  margin: 2em 5em;
+}
+
+nav > ul + h1{
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  text-align: center;
 }
 
 .dropdown {
@@ -141,6 +148,12 @@ main{
 } */
 
 /* SIGNATURE FLAVOURS SECTION */
+ul, li{
+  display: flex;
+  list-style: none;
+  flex-basis: 50%;
+}
+
 .signature-flavour-section{
   padding-bottom: 2em;
 }
