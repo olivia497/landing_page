@@ -43,4 +43,5 @@ third blog post of latte art (https://unsplash.com/photos/aerial-photography-of-
 Photo by <a href="https://unsplash.com/@nate_dumlao?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nathan Dumlao</a> on <a href="https://unsplash.com/photos/aerial-photography-of-cafe-latte-on-table-ikU3J1nr52w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   
-  
+green location marker 
+<a href="https://www.flaticon.com/free-icons/google-maps" title="google maps icons">Google maps icons created by lalawidi - Flaticon</a>
