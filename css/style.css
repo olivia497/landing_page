@@ -398,6 +398,15 @@ footer {
   display: flex;
   justify-content: space-evenly;
 }
+#stayInTouch > h5{
+  font-size: 1.5em;
+  padding-bottom: 0;
+  margin-bottom: 0.5em;
+}
+
+#stayInTouchForm{
+  font-size: 1em;
+}
 
 #footerLinks > ul{
   flex-direction: column;
