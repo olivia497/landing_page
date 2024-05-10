@@ -51,9 +51,9 @@ clear: both;
   background-color: black;
 } */
 
-/* a{
+a{
   text-decoration: none;
-} */
+}
 
 /* Apply white to all anchor tags even if they've already been clicked */
 a:visited{
@@ -410,10 +410,15 @@ footer {
 
 #footerLinks > ul{
   flex-direction: column;
+  padding-top: 1em;
 }
 
 #footerLinks > ul > li{
   padding: 0.5em;
+}
+
+.underline-hover:hover{
+  text-decoration: underline white;
 }
 
 #coffeePlantLogo{
