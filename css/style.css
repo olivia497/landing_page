@@ -350,8 +350,9 @@ ul, li{
 #blog-post-title{
   font-size: 1.5em;
   font-weight: 100;
-  /* padding: 1em; */
   text-align: center;
+  padding: 0;
+  margin: 1em;
 }
 
 #blog-post-date{
@@ -393,12 +394,20 @@ ul, li{
 footer {
   border-top: 1px solid black;
   background-color: rgb(212, 144, 75);
-  height: 200px;
+  height: 180px;
   display: flex;
   justify-content: space-evenly;
 }
 
+#footerLinks > ul{
+  flex-direction: column;
+}
+
+#footerLinks > ul > li{
+  padding: 0.5em;
+}
+
 #coffeePlantLogo{
-  height: 8em;
+  height: 7em;
   padding-top: 2%;
 }
