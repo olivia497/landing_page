@@ -108,6 +108,7 @@ nav > ul + h1{
   text-decoration: none;
   display: block;
   text-align: left;
+  transition: text-decoration 1s ease;
 }
 
 .dropdown:hover{
@@ -116,6 +117,10 @@ nav > ul + h1{
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.dropdown-conten-hover:hover{
+  text-decoration: underline solid Currentcolor;
 }
 
 /* MAIN SECTION */
